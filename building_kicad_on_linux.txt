@@ -1,0 +1,3 @@
+
+site: https://dev-docs.kicad.org/en/build/linux/
+
